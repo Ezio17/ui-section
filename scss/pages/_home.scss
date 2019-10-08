@@ -1,0 +1,10 @@
+.home-page {
+  width: 1440px;
+  margin: auto;
+}
+
+@media all and (max-width: 1480px) {
+  .home-page {
+    width: 95%;
+  }
+}
